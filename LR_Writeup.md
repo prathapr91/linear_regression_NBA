@@ -102,7 +102,7 @@ Although the OLS had slightly better results, the ridge regression was the best 
 
 Below is a chart that outlines the weights given to each variable. Although age has the strongest link to salary, it is partially offset by the past peak indicator. Points is the second most valuable feature, but is not the only scoring feature that has a positive impact.
 
-![coefficients](/Users/prathaprajaraman/Documents/Data_Science/Metis/Linear_Regression/project/coefficients.png)
+![coefficients](https://github.com/prathapr91/linear_regression_NBA/blob/main/coefficients.png)
 
 **Tools**
 
